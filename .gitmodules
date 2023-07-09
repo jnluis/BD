@@ -1,0 +1,3 @@
+[submodule "Práticas/Práticas/BD_Project"]
+	path = Práticas/Práticas/BD_Project
+	url = git@github.com:jnluis/BD_Project.git
