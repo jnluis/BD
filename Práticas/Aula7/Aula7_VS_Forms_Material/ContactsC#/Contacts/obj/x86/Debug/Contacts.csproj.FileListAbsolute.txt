@@ -1,0 +1,9 @@
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\obj\x86\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\obj\x86\Debug\Contacts.Form1.resources
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\obj\x86\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\obj\x86\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\bin\Debug\Contacts.exe
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\bin\Debug\Contacts.pdb
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\obj\x86\Debug\Contacts.exe
+C:\Users\João Luís\OneDrive - Universidade de Aveiro\UA\2º Ano\2º semestre\BD- Bases de Dados\Práticas\Aula7\Aula7_VS_Forms_Material\ContactsC#\Contacts\obj\x86\Debug\Contacts.pdb
